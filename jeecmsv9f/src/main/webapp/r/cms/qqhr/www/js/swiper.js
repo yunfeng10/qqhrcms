@@ -1,4 +1,10 @@
-// 组件(OOP)的js设计模式 - 匿名函数自执行
+/**
+ * @Author: 焦质晔
+ * @Date: 2018/12/10
+ * @Last Modified by: 焦质晔
+ * @Last Modified time: 2018/12/10
+ * 依赖 jQuery
+ */
 var Swiper = (function(window, $, undefined){
     // 三段式
     // 1. 构造函数
